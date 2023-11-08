@@ -1,0 +1,7 @@
+Algorithm chart for activity 1
+-	Start
+-	Type the angles of the three sides
+-	Calculate the sum
+-	If the sum is equal to 180 degrees, type “Triangle is possible”
+-	Else, display “Triangle is not possible”
+-	End
