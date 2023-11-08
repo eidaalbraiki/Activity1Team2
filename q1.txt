@@ -1,0 +1,4 @@
+Step 1       x =10
+Step 2     incriment by 2 
+step3 if x = < 100 then 
+step4 go to step 2 .
